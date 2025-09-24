@@ -1,4 +1,4 @@
-package com.employee.login;
+package com.employee.Login;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,8 +1,6 @@
-package com.employee.login;
+package com.employee.Login;
 
 import jakarta.persistence.*;
-
-import javax.lang.model.element.Name;
 
 @Entity
 @Table(name = "users")
